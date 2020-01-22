@@ -1,0 +1,14 @@
+{
+  "name": "{{ cookiecutter.project_name }}",
+  "version": "0.1.0",
+  "author": "{{ cookiecutter.author }}",
+  "description": "{{ cookiecutter.description }}",
+  "license": "MIT",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "prettier": "^1.19.1"
+  }
+}

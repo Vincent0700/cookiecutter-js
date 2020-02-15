@@ -3,19 +3,24 @@
 ## Feature
 
 1. 基础配置文件生成
-    - .gitignore
     - package.json
     - LICENSE
     - README.md
+
+2. git 相关配置文件生成
+    - .gitignore
+    - .huskyrc.js
+    - .lintstagedrc.js
+    - .commitlintrc.js
     
-2. eslint 相关配置文件生成
+3. eslint 相关配置文件生成
     - .eslintrc.js
     - .eslintignore
     - .prettierrc.js
     - .editorconfig
     - .vscode/settings.json
 
-3. 生成完毕后执行 `yarn install`
+4. 生成完毕后执行 `yarn install`
 
 ## Usage
 

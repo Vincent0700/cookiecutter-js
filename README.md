@@ -1,5 +1,7 @@
 # JavaScript 基础模板创建工具
 
+cookiecutter 是一个 python 写的 wizard 工具，现想引入到 js 项目中来作为个人定制化起手模板的构建工具。工具本身使用起来也是非常简单，详细说明参考 [官方文档](https://s0cookiecutter0readthedocs0io.icopy.site/en/latest/usage.html)。
+
 ## Feature
 
 1. 基础配置文件生成

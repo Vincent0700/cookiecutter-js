@@ -3,5 +3,7 @@
   "eslint.format.enable": true,
   "eslint.lintTask.enable": true,
   "eslint.validate": ["javascript"],
-  "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  }
 }
